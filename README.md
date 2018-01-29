@@ -1,11 +1,11 @@
-## ¶à¶¯Ö¢¼òÀú(»á¶¯µÄ¼òÀú) ##
+## å¤šåŠ¨ç—‡ç®€åŽ†(ä¼šåŠ¨çš„ç®€åŽ†) ##
 
-**Ô¤ÀÀ :**  [¶à¶¯Ö¢¼òÀú](http://htmlpreview.github.io/?https://github.com/ZQ-jhon/resume/blob/master/index.html)
-**°æ±¾ :**  1.0.0
+**é¢„è§ˆ :**  [å¤šåŠ¨ç—‡ç®€åŽ†](https://zq-jhon.github.io/resume/)
+**ç‰ˆæœ¬ :**  1.0.0
 <br/>
 /*---------------------------------------------English Mode-------------------------------------------------*/
 <br/>
 ## Dynamic Resume By -- ZQ-jhon ##
 
-**Preview :** [ZQ-jhon's Dynamic Resume](http://htmlpreview.github.io/?https://github.com/ZQ-jhon/resume/blob/master/index.html)
+**Preview :** [ZQ-jhon's Dynamic Resume](https://zq-jhon.github.io/resume/)
 **Beta:**  1.0.1
