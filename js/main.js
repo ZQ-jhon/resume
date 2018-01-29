@@ -31,7 +31,7 @@
 
 	 
 /*源码版控制区*/	 
-var controller= setInterval(put,0);
+var controller= setInterval(put,90);
 	 function put(){
 
 			/*吐代码区域*/
